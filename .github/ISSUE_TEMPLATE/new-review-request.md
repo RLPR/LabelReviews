@@ -7,6 +7,7 @@ about: Template to create a review request
 # General info
 - [ ] Conference: 
 - [ ] Papers title:
+- [x] Source paper:  [paper SXX](https://github.com/kerautret/PrivatePDFforRLPR/blob/master/sXX.pdf)
 - [ ] GitHub repo: 
 - [ ] Submission date: 
 - [ ] Platform: 
