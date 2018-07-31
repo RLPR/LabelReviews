@@ -12,6 +12,8 @@ about: Template to create a review request
 - [ ] Platform: 
 - [ ] Language:
 - [ ] Results to be reproduced: (indicates reference to figure/tab) 
+- [ ] Reproduction main step instructions:
+
 
 # Reviewer feedback
 - [ ] Tested platform:
