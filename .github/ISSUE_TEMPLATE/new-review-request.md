@@ -6,16 +6,14 @@ about: Template to create a review request
 
 # General info
 - [ ] Conference: 
-- [ ] Papers title:
-- [x] Source paper:  [paper SXX](https://github.com/kerautret/PrivatePDFforRLPR/blob/master/sXX.pdf)
-- [ ] GitHub repo: 
 - [ ] Submission date: 
+- [ ] Papers title:
+- [ ] Source paper: [paper SXX](https://.../xxx.pdf)
+- [ ] GitHub repo: 
 - [ ] Platform: 
-- [ ] Language:
-- [ ] Results to be reproduced: (indicates reference to figure/tab) 
-- [ ] Reproduction main step instructions:
-       Give the main steps to reproduce the figure/tab
-
+- [ ] Language: 
+- [ ] Results that can be reproduced: (indicates references to figures/tables of your paper)
+- [ ] Reproduction main step instructions: Give a link to the installation file.
 
 # Reviewer feedback
  - [ ] Tested platform: 
